@@ -13,6 +13,5 @@ public interface IStudentService {
 	
 	public byte[] generateStudentsData();
 	
-	public void validateStudentsData(Student student);
 
 }
